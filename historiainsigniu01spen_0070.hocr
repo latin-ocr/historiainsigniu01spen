@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./historiainsigniu01spen_0070.png"; bbox 0 0 1742 2915; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 112 1332 2804">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 112 1332 2804">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 112 1332 2804; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 0 112 1332 2804; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1363 682 1520 1681">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1363 682 1520 1681">
+     <span class='ocr_line' id='line_1_2' title="bbox 1363 1403 1374 1412; textangle 90"><span class='ocrx_word' id='word_1_2' title='bbox 1363 1403 1374 1412; x_wconf 79' lang='grc' dir='ltr'><strong><em>ο</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1415 1365 1429 1372; textangle 90"><span class='ocrx_word' id='word_1_3' title='bbox 1415 1365 1429 1372; x_wconf 65' lang='grc' dir='ltr'>ί</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1430 1363 1450 1681; textangle 90"><span class='ocrx_word' id='word_1_4' title='bbox 1434 1679 1438 1681; x_wconf 80' lang='lat'><em>&#39;</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1430 1363 1450 1370; x_wconf 80' lang='grc' dir='ltr'><strong><em>Ι</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1502 682 1520 1609; textangle 90"><span class='ocrx_word' id='word_1_6' title='bbox 1502 1266 1518 1609; x_wconf 50' lang='grc' dir='ltr'>ψ</span> <span class='ocrx_word' id='word_1_7' title='bbox 1502 731 1520 1222; x_wconf 49' lang='grc' dir='ltr'>Μριο-ι</span> <span class='ocrx_word' id='word_1_8' title='bbox 1508 682 1516 695; x_wconf 70' lang='lat'><em>0</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
